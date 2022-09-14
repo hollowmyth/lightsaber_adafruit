@@ -1,0 +1,69 @@
+{
+	"presets":
+	[
+		{
+			"name":"Darth_Maul",
+			"bladeColor": [255,0,0],
+			"hum": 1,
+			"font": 1,
+			"outSounds": 4,
+			"inSounds": 2,
+			"blstSounds": 6,
+			"clshSounds": 16,
+			"swinghSounds": 4,
+			"swngSounds": 16
+		},
+
+		{
+			"name":"Cal_Kestis_Pro",
+			"bladeColor": [255,128,0],
+			"hum": 1,
+			"font": 1,
+			"outSounds": 6,
+			"inSounds": 2,
+			"blstSounds": 8,
+			"clshSounds": 16,
+			"swinghSounds": 4,
+			"swngSounds": 16
+		},
+
+		{
+			"name":"Kylo_Ren_Pro",
+			"bladeColor": [255,0,0],
+			"hum": 1,
+			"font": 1,
+			"outSounds": 5,
+			"inSounds": 6,
+			"blstSounds": 4,
+			"clshSounds": 16,
+			"swinghSounds": 8,
+			"swngSounds": 16
+		},
+
+		{
+			"name":"Obi_Wan",
+			"bladeColor": [0,0,255],
+			"hum": 1,
+			"font": 2,
+			"outSounds": 4,
+			"inSounds": 2,
+			"blstSounds": 6,
+			"clshSounds": 16,
+			"swinghSounds": 4,
+			"swngSounds": 16
+		},
+
+		{
+			"name":"Luke",
+			"bladeColor": [0,255,0],
+			"hum": 1,
+			"font": 2,
+			"outSounds": 5,
+			"inSounds": 4,
+			"blstSounds": 4,
+			"clshSounds": 16,
+			"swinghSounds": 3,
+			"swngSounds": 12
+		}
+	]
+}
